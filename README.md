@@ -20,7 +20,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{Karahalios2024,
-  author =        {Karahalios, Anthony and Tayur, Sridhar and Tenneti, Ananth and Pashapour, Amirezza and Salman, F. Sibel and Yildiz, Baris},
+  author =        {Karahalios, Anthony and Tayur, Sridhar and Tenneti, Ananth and Pashapour, Amirreza and Salman, F. Sibel and Yildiz, Baris},
   publisher =     {INFORMS Journal on Computing},
   title =         {{A Quantum Inspired Bi-level Optimization Algorithm for the First Responder Network Design Problem}},
   year =          {2024},
